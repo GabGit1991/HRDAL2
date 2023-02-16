@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\bin\Debug\net6.0\HRDAL.deps.json
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\bin\Debug\net6.0\HRDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\bin\Debug\net6.0\HRDAL.pdb
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.AssemblyInfo.cs
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\refint\HRDAL.dll
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\HRDAL.pdb
+C:\Users\user\Downloads\POEC_DEV_WEB\MVC\HR 2023-01-30 17-32\HR\HRDAL\obj\Debug\net6.0\ref\HRDAL.dll
